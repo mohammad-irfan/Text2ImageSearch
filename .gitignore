@@ -1,0 +1,5 @@
+venv
+subfolder-0.zip
+subfolder-1.zip
+image_dataset/*
+__pycache__
